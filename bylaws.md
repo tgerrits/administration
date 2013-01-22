@@ -15,7 +15,7 @@ Heatsync Labs Bylaws
 
      *Champion*: The office of Champion shall be responsible for coordinating tasks between each office of the Board of Directors, assisting HSL membership in membership-related tasks, and enforcing the bylaws. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors.
 
-     *Treasurer*: The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue.
+     *Treasurer*: The office of Treasurer shall be responsible for managing financial assets and liabilities and collecting membership dues, donations, and other revenue. This office may be occupied by multiple officers, the total of which may not exceed two. Each officer will receive a full vote on the Board of Directors.
 
      *Secretary*: The office of Secretary shall be responsible for recording the proceedings of HeatSync Lab functions, such as events, fundraiser, and other official activities. Additionally, the office of the Secretary shall be responsible for the oversight of all records and papers produced in HSL's operations.
 
